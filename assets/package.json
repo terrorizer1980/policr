@@ -15,7 +15,7 @@
     "mdn-polyfills": "^5.19.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-helmet-async": "^1.0.4",
+    "react-helmet-async": "^1.0.9",
     "react-redux": "^7.1.3",
     "react-router-dom": "^5.1.2",
     "redux": "^4.0.4",
